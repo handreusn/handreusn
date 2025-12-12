@@ -12,7 +12,7 @@ Eu sou o Handreus, tenho 34 anos e sou Programador Front-End em processo de tran
 
 <br>
 
-<a href="https://www.linkedin.com/in/handreus/" target="_blank">![LinkedIn-0077B5](https://github.com/user-attachments/assets/1dbf6e8e-d935-4ed8-b340-effc1783d9a0)</a>
+<a href="![LinkedIn-0077B5](https://github.com/user-attachments/assets/1dbf6e8e-d935-4ed8-b340-effc1783d9a0)" target="_blank">https://www.linkedin.com/in/handreus/</a>
 
 
 
